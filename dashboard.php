@@ -16,7 +16,7 @@ background: #f4f4f4;
 .sidebar {
 width: 220px;
 height: 100vh;
-background: #2c3e50;
+background: #d51a30ff;
 color: white;
 position: fixed;
 top: 0;
